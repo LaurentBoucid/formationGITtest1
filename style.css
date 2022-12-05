@@ -7,3 +7,8 @@ div {
     margin: 0;
     background: salmon;
 }
+
+.box {
+    width: 100px;
+    background: blue;
+}
